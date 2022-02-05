@@ -25,6 +25,6 @@ Por defecto, el puerto que configuré para este proyecto es el ```8081```, pero 
 Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicamente graban los cambios antes de ejecutar el ```npm start``` nuevamente)
 
 
-## 2-Tipos básicos
+## 3-Objetos, arreglos e interfaces
 
-Aqui hemos visto los tipos basicos para poder trabajar y como podemos poner que una variable pueda aceptar dos tipos diferentes
+Hemos visto como declarar array de diferentes tipos, objetos y interfaces
