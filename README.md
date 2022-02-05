@@ -25,6 +25,6 @@ Por defecto, el puerto que configuré para este proyecto es el ```8081```, pero 
 Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicamente graban los cambios antes de ejecutar el ```npm start``` nuevamente)
 
 
-## 1-Creacion del proyecto
+## 2-Tipos básicos
 
-Hemos subido el proyecto pero aun no hemos realizad los pasos anteriores para extraer la informacion necesaria.
+Aqui hemos visto los tipos basicos para poder trabajar y como podemos poner que una variable pueda aceptar dos tipos diferentes
