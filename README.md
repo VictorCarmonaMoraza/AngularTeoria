@@ -25,6 +25,5 @@ Por defecto, el puerto que configuré para este proyecto es el ```8081```, pero 
 Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicamente graban los cambios antes de ejecutar el ```npm start``` nuevamente)
 
 
-## 8-Desestructuración de Arreglos
+## 9-Desestructuración de argumentos
 
-La desestructuracion de un arreglo se hace mediante llaves cuadradas[] y la desestructuracion de un objeto mediante llaves {}
