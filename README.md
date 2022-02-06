@@ -25,5 +25,7 @@ Por defecto, el puerto que configuré para este proyecto es el ```8081```, pero 
 Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicamente graban los cambios antes de ejecutar el ```npm start``` nuevamente)
 
 
-## 10-Importaciones y exportaciones
+## 11-Clases, constructor y extender
+
+En este capitulo hemos visto la creacion de clases, de como extender una de otra y las posibles formas de crear un constructor.
 
